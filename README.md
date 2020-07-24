@@ -7,13 +7,19 @@ Email: {yikun.li, l.r.b.schomaker, hamidreza.kasaei}@rug.nl
 
 ### Examples of models in the dataset:
 
-25 examples from five categories (mug, lamp, chair, knife, and guitar):
+This dataset contains 500 models as well as their grasp affordance from five categories (mug, lamp, chair, knife, and guitar).
+25 example models with grasp affordance are shown below:
 
 ![Examples](/images/examples.jpg)
 
 An animation example:
 
 ![Animation Example](/images/animation.gif)
+
+### Getting started
+
+1. unzip the dataset.zip file.
+1. run the model_reviewer.py viewing the models with grasp affordance.
 
 ### For citation
 
