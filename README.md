@@ -8,3 +8,14 @@ Email: {yikun.li, l.r.b.schomaker, hamidreza.kasaei}@rug.nl
 ### Examples of models in the dataset:
 
 ![Examples](/images/examples.jpg)
+
+### For citation
+
+```
+@article{li2020learning,
+  title={Learning to Grasp 3D Objects using Deep Residual U-Nets},
+  author={Li, Yikun and Schomaker, Lambert and Kasaei, S Hamidreza},
+  journal={arXiv preprint arXiv:2002.03892},
+  year={2020}
+}
+```
