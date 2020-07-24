@@ -7,7 +7,13 @@ Email: {yikun.li, l.r.b.schomaker, hamidreza.kasaei}@rug.nl
 
 ### Examples of models in the dataset:
 
+25 examples from five categories (mug, lamp, chair, knife, and guitar):
+
 ![Examples](/images/examples.jpg)
+
+An animation example:
+
+![Animation Example](/images/animation.gif)
 
 ### For citation
 
