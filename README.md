@@ -24,10 +24,14 @@ An animation example:
 ### For citation
 
 ```
-@article{li2020learning,
+@INPROCEEDINGS{li2020learning,
+  author={Li, Yikun and Schomaker, Lambert and Kasaei, S. Hamidrez},
+  booktitle={2020 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)},
   title={Learning to Grasp 3D Objects using Deep Residual U-Nets},
-  author={Li, Yikun and Schomaker, Lambert and Kasaei, S Hamidreza},
-  journal={arXiv preprint arXiv:2002.03892},
-  year={2020}
+  year={2020},
+  volume={},
+  number={},
+  pages={},
+  note={unpublished}
 }
 ```
