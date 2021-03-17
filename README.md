@@ -1,9 +1,8 @@
 # Grasp Affordance Dataset (Pointcloud data)
 
-###### Authors: 
-Yikun Li, Lambert Schomaker, [Hamidreza Kasaei](https://hkasaei.github.io/)  
-Department of Artificial Intelligence, University of Groningen, Groningen, The Netherlands.
-Emails: {yikun.li, l.r.b.schomaker, hamidreza.kasaei}@rug.nl.
+###### Authors: Yikun Li, Lambert Schomaker, [Hamidreza Kasaei](https://hkasaei.github.io/)  
+###### Department of Artificial Intelligence, University of Groningen, Groningen, The Netherlands.
+###### Emails: {yikun.li, l.r.b.schomaker, hamidreza.kasaei}@rug.nl.
 ##
 ### Examples of models in the dataset:
 
